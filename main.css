@@ -1,19 +1,19 @@
-header {
-    background-color: red;
-}
+
 
 nav {
     width: 100%;
 }
 
-ul.truenav {
-    background-color: gray;
+.logo {
+    display: block;
+    margin: 0 auto;
+    padding-top: 104px;
 }
+
 .truenav li {
-    background-color: black;
-display: inline-block;
-padding: 5 10;
-text-decoration: none;
+    display: inline-block;
+    padding: 5 10;
+    text-decoration: none;
 }
 
 .navright {
