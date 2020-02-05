@@ -1,8 +1,20 @@
 
-
+footer {
+    display: inline-block;
+    position: relative;
+    background-color: #fff;
+}
 nav {
     width: 100%;
 }
+
+
+.buttons li {
+    /* position: relative; */
+    display: inline-block;
+    margin: 0 auto;
+}
+
 
 .logo {
     display: block;
@@ -20,6 +32,30 @@ nav {
     float: right;
 }
 
+.searchit {
+    
+    border-radius: 20px;
+    display: block;
+    font-size: 30px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 0 10;
+    width: 600px;
+
+}
+
 .truenav a {
     text-decoration: none;
+}
+
+formtest {
+    position:relative;
+}
+
+.buttons {
+    margin: 20 30% 20;
+}
+
+.footernav li {
+    display: inline-block;
 }
